@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "jointitle",
+        "name": "JoinTitle",
+        "version": "1.0.0-SNAPSHOT",
+        "authorList": [
+            "h21/DeLanau"
+        ],
+        "dependencies": [
+            "luckperms",
+            "placeholderapi",
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "placeholderapi",
+            "spongeapi@7.0.0"
+        ]
+    }
+]
