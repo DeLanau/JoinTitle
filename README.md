@@ -41,6 +41,8 @@ Default {
 
 Your text need to be between #title:/#subtitle:/#actionbar: and # supports color codes and placeholders. 
 
+>Same sample for Admin and VIP 
+
 # Showcase
 
 https://imgur.com/bKcMM6l
